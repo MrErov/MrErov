@@ -2,38 +2,49 @@
 
 # Hi, I'm Eurick Ospino 👋
 
-### Backend & AI Engineer · Python · Odoo · LangChain
+### Backend & AI Engineer
 
 Backend engineer specializing in **Python**, **Odoo** ERP, and **LangChain/LangGraph** AI systems.
 I build production APIs with FastAPI, Docker, and PostgreSQL — **TDD-driven**, tested, and containerized.
 
-![Profile Views](https://komarev.com/ghpvc/?username=MrErov&style=flat-square&color=blue&label=Profile+Views)
+**Focus:** AI Agents, RAG, MLOps, DevOps.
+
+![Profile views](https://komarev.com/ghpvc/?username=MrErov&color=blue)
 
 ---
 
 ### Quick Links
 
-[![Portfolio](https://img.shields.io/badge/Portafolio_Web-1A1B27?style=flat-square&logo=googlechrome&logoColor=white)](https://mrerov.github.io/)
-[![CV](https://img.shields.io/badge/CV_(EN)-2F80ED?style=flat-square&logo=html5&logoColor=white)](https://mrerov.github.io/cv/cv-en.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logoColor=white)](https://www.linkedin.com/in/eurick-ospino-18a75a134/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:eurickramiro.ospinovelasquez@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mrerov.github.io-blue?style=for-the-badge&logo=github)](https://mrerov.github.io/)
+[![CV](https://img.shields.io/badge/CV_(EN)-Download-2F80ED?style=for-the-badge&logo=html5&logoColor=white)](https://mrerov.github.io/cv/cv-en.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eurick_Ospino-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/eurick-ospino-18a75a134/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:eurickramiro.ospinovelasquez@gmail.com)
 
 ---
 
 ### Tech Stack
 
-![Skills](https://skillicons.dev/icons?i=py,fastapi,docker,postgresql,linux,git&theme=dark)
-![Odoo](https://img.shields.io/badge/-Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Odoo](https://img.shields.io/badge/-Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![LangSmith](https://img.shields.io/badge/-LangSmith-1C3C3C?style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
 
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MrErov&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" />
-  <img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrErov&layout=compact&theme=tokyonight&hide_border=true" />
+  <img alt="GitHub Stats" src="https://ghstats.dev/api/card?username=MrErov&theme=tokyonight" />
+</p>
+<p align="center">
+  <img alt="Contribution Activity" src="https://ghstats.dev/api/sparkline?username=MrErov&theme=tokyonight" />
 </p>
 
 ---
