@@ -2,7 +2,9 @@
 
 # Hi, I'm Eurick Ospino 👋
 
-### Backend & AI Engineer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=640&lines=Backend+%26+AI+Engineer;Python+%C2%B7+Odoo+%C2%B7+LangChain+%C2%B7+TDD;FastAPI+%C2%B7+Docker+%C2%B7+PostgreSQL;Open+to+remote+opportunities" />
+</p>
 
 Backend engineer specializing in **Python**, **Odoo** ERP, and **LangChain/LangGraph** AI systems.
 I build production APIs with FastAPI, Docker, and PostgreSQL — **TDD-driven**, tested, and containerized.
