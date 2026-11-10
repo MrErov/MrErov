@@ -43,7 +43,7 @@ I build production APIs with FastAPI, Docker, and PostgreSQL — **TDD-driven**,
 ### GitHub Stats
 
 <p align="center">
-  <img alt="GitHub Stats" src="https://ghstats.dev/api/card?username=MrErov&theme=tokyonight" />
+  <img alt="Contribution Stats" src="https://github-contribution-stats.vercel.app/api?username=MrErov&theme=tokyonight" />
 </p>
 <p align="center">
   <img alt="Contribution Activity" src="https://ghstats.dev/api/sparkline?username=MrErov&theme=tokyonight" />
@@ -57,6 +57,7 @@ I build production APIs with FastAPI, Docker, and PostgreSQL — **TDD-driven**,
 |:-:|:-|
 | [**contafis-odoo**](https://github.com/MrErov/contafis-odoo) | ![Odoo 19.0](https://img.shields.io/badge/Odoo_19.0-714B67?style=flat-square&logo=odoo&logoColor=white) Fiscal compliance module for Venezuela — SENIAT calendar, multi-company, integrated email/WhatsApp alert bot. **337 automated tests**, Docker-deployed. |
 | [**contafis-assistant**](https://github.com/MrErov/contafis-assistant) | ![AI / RAG](https://img.shields.io/badge/AI-RAG-1C3C3C?style=flat-square&logo=langgraph&logoColor=white) Intelligent fiscal assistant — natural-language queries over obligations, deadlines, and regulations via LangGraph + vector RAG. **680 automated tests**. |
+| [**keel-nav**](https://github.com/MrErov/keel-nav) | ![Methodology](https://img.shields.io/badge/Methodology-SDD_TDD_ODD-714B67?style=flat-square&logo=markdown&logoColor=white) Harness-agnostic methodology for disciplined human-navigated AI engineering — pure-Markdown meta-skills, blind audits, and token budgets. **Battle-tested** on a real Odoo + LangGraph codebase. MIT. |
 
 ---
 
